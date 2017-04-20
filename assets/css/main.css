@@ -17,7 +17,7 @@ body{
 }
 .box:hover{
 	background: #fff;
-	color: #5DADE2;
+	color: #2471A3;
 	padding-top: 30px;
 	-webkit-transform: scale(1.1);
 	-webkit-transition: all .0.5s ease-in-out;
